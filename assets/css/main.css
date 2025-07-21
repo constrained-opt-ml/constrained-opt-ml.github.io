@@ -818,3 +818,40 @@ table.table thead th {
     font-size: 1rem;
     width: 33.333333333%;
 }
+
+.faq-list {
+    padding: 0;
+    list-style: none;
+}
+
+.faq-list li {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px 15px;
+    border-style: solid;
+}
+
+.faq-list a {
+    display: block;
+    position: relative;
+    font-weight: 600;
+    color: var(--global-text-color);
+    text-decoration: none;
+    padding-right: 30px;
+}
+
+.faq-list i {
+    position: absolute;
+    right: 0;
+    top: 5px;
+    transition: 1s;
+}
+
+.faq-list p {
+    padding-top: 5px;
+    margin-bottom: 20px;
+}
+
+.faq-list a.collapsed i {
+    transform: rotate(180deg);
+}
