@@ -831,7 +831,7 @@ table.table thead th {
     border-style: solid;
 }
 
-.faq-list a {
+.faq-list li > a {
     display: block;
     position: relative;
     font-weight: 600;

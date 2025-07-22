@@ -69,9 +69,6 @@ As per [OpenReview guidelines](https://docs.openreview.net/getting-started/frequ
 * **Oral selection notification**: Sep 29, 2025
 * **Camera-ready version**: Oct 31, 2025 (AOE)
 
-Please note that we are unable to provide financial support for travel or accommodation.
-If you require assistance to attend the workshop, we encourage you to check the [NeurIPS financial assistance](https://neurips.cc/Conferences/2025/FinancialAssistance) page.
-
 ### Questions?
 
 Contact us at [constrainedml@gmail.com](mailto:constrainedml@gmail.com).
