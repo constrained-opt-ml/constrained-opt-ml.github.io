@@ -26,7 +26,6 @@ You will be assigned **3 papers** to review.
 
 
 ### Preparation:
-* The review process is **double-blind**; therefore, ensure your reviews do not disclose your identity.
 * COML 2025 utilizes OpenReview. Please ensure your OpenReview profile is up to date, as most communications will be sent through this platform.
 * Familiarize yourself with the workshop's scope and topics by reviewing the [Call for Contributions](https://coml-workshop.github.io/submissions/).
 
@@ -71,6 +70,8 @@ Each review will include:
 * A **1-2 paragraph critical review** covering the paper's overall *impact potential*, *soundness*, and *clarity* (see [above](#review-criteria) for details).
 * A **recommendation** (accept, unsure, or reject) with a clear justification.
 * A **checkbox** to recommend outstanding papers for a **contributed talk** at the workshop. If selected, please specify the relevant track (details available [here](https://constrained-opt-ml.github.io/submissions/#contributed-talks)) and provide your justification for the recommendation.  
+
+The review process is **double-blind**; therefore, ensure your reviews do not disclose your identity.
 
 Please note there will be **no discussion period**; reviews and decisions will be final.
 
