@@ -36,24 +36,27 @@ Submissions on both constrained minimization and constrained game formulations a
 - Please format your submission using the modified NeurIPS style file available here: [coml_styles.zip](/assets/files/coml_styles.zip).
   (*This is the NeurIPS 2025 style file with an updated footer indicating submission or acceptance at this workshop rather than the main conference*).
 - Submissions should be **2–4 pages long, excluding references and appendices**.
+- Appendices are accepted but discouraged; the reviewers will not be required to read the appendices.
 - Submissions will be managed through the [OpenReview portal](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML).
 
-Please note the following requirements:
+Please note the following **requirements**:
 
 - Submissions must be **original work in progress not previously published** in peer-reviewed conferences or journals. Work presented at prior non-archival workshops is allowed.
 - At least **one author is expected to attend the workshop in person**, and we encourage all authors to participate.
 - Submissions are not required to include a checklist.
 - We follow NeurIPS policies, including their [guidelines on the use of large language models](https://neurips.cc/Conferences/2025/LLM).
 
+Submissions will be reviewed by a panel of 3 reviewers. The review process will be double-blind, and authors should ensure that their submissions do not reveal their identities.
+
 ### Contributed Talks
 
 Four extended abstracts will be selected for a **short contributed talk** at the workshop. Selection will be based on the quality and relevance of the abstract to the workshop themes.
 To promote a diverse set of contributions, we aim to select one talk from each of the following categories:
 
-- Best negative results contribution,
-- Best overall contribution,
-- Best application,
-- Best fundamental (theoretical or algorithmic) contribution.
+- Best **fundamental** (theoretical or algorithmic) contribution.
+- Best **application**,
+- Best **overall** contribution,
+- Best **negative results** contribution,
 
 However, the final selection may deviate from these categories depending on the quality of submissions.
 
@@ -69,6 +72,8 @@ As per [OpenReview guidelines](https://docs.openreview.net/getting-started/frequ
 * **Oral selection notification**: Sep 29, 2025
 * **Camera-ready version**: Oct 31, 2025 (AOE)
 
-### Questions?
+Please note there will be **no discussion period**; reviews and decisions will be final.
+
+## Questions?
 
 Contact us at [constrainedml@gmail.com](mailto:constrainedml@gmail.com).

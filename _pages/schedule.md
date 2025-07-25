@@ -51,6 +51,6 @@ The workshop will be held on **December 6th or 7th, 2025**, at the San Diego Con
 
 <br>
 
-### Questions?
+## Questions?
 
 Contact us at [constrainedml@gmail.com](mailto:constrainedml@gmail.com).
