@@ -26,7 +26,7 @@ You will be assigned **3 papers** to review.
 
 
 ### Preparation:
-* COML 2025 utilizes [OpenReview](openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML). Please ensure your OpenReview profile is up to date, as most communications will be sent through this platform.
+* COML 2025 utilizes [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML). Please ensure your OpenReview profile is up to date, as most communications will be sent through this platform.
 * Familiarize yourself with the workshop's scope and topics by reviewing the [Call for Contributions](https://constrained-opt-ml.github.io/submissions).
 
 
