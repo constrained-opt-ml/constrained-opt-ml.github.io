@@ -26,7 +26,7 @@ You will be assigned **3 papers** to review.
 
 
 ### Preparation:
-* COML 2025 utilizes OpenReview. Please ensure your OpenReview profile is up to date, as most communications will be sent through this platform.
+* COML 2025 utilizes [OpenReview](openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML). Please ensure your OpenReview profile is up to date, as most communications will be sent through this platform.
 * Familiarize yourself with the workshop's scope and topics by reviewing the [Call for Contributions](https://coml-workshop.github.io/submissions/).
 
 
@@ -63,7 +63,7 @@ While providing feedback to improve the idea is encouraged, it is not a requirem
 
 ### Review Structure
 
-Each review will include:
+Each review, to be submitted directly in [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML), will consist of the following components:
 
 * A **2-3 sentence summary** of the paper—this should be descriptive, not critical.
 * A multiple-choice question assessing the submission's alignment with the workshop's themes. Refer to the [Call for Papers](https://coml-workshop.github.io/call-for-papers/) for relevant topics.
