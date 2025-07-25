@@ -27,7 +27,7 @@ You will be assigned **3 papers** to review.
 
 ### Preparation:
 * COML 2025 utilizes [OpenReview](openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML). Please ensure your OpenReview profile is up to date, as most communications will be sent through this platform.
-* Familiarize yourself with the workshop's scope and topics by reviewing the [Call for Contributions](https://coml-workshop.github.io/submissions/).
+* Familiarize yourself with the workshop's scope and topics by reviewing the [Call for Contributions](https://constrained-opt-ml.github.io/submissions).
 
 
 ### Desk-Rejections and Conflicts of Interest
@@ -66,7 +66,7 @@ While providing feedback to improve the idea is encouraged, it is not a requirem
 Each review, to be submitted directly in [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML), will consist of the following components:
 
 * A **2-3 sentence summary** of the paper—this should be descriptive, not critical.
-* A multiple-choice question assessing the submission's alignment with the workshop's themes. Refer to the [Call for Papers](https://coml-workshop.github.io/call-for-papers/) for relevant topics.
+* A multiple-choice question assessing the submission's alignment with the workshop's themes. Refer to the [Call for Papers](https://constrained-opt-ml.github.io/submissions) for relevant topics.
 * A **1-2 paragraph critical review** covering the paper's overall *impact potential*, *soundness*, and *clarity* (see [above](#review-criteria) for details).
 * A **recommendation** (accept, unsure, or reject) with a clear justification.
 * A **checkbox** to recommend outstanding papers for a **contributed talk** at the workshop. If selected, please specify the relevant track (details available [here](https://constrained-opt-ml.github.io/submissions/#contributed-talks)) and provide your justification for the recommendation.  
