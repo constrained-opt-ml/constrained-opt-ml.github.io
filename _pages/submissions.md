@@ -13,7 +13,7 @@ We invite submissions of **extended abstracts (2–4 pages, excluding references
 Final versions will be posted on the [Papers tab](/papers) but **will not be part of formal proceedings**.
 Accepted abstracts will be presented at the workshop during two poster sessions, with selected contributions invited to give a **short talk** (see [Contributed Talks](#contributed-talks) for details).
 
-
+**Scope**: We welcome submissions relevant to constrained optimization and its applications to enforcing properties on machine learning models, that either develop or leverage *tailored* constrained optimization techniques. Note that this generally excludes work that enforces properties via penalties or regularization—i.e., by augmenting the loss with a linear penalty term and then unconstrainedly minimizing the sum (see this [Position Paper](https://arxiv.org/abs/2505.20628) for why this approach is generally not principled for constrained optimization).
 
 We particularly encourage contributions in the following areas:
 
@@ -46,9 +46,10 @@ Please note the following **requirements**:
 - Submissions must be **original work in progress not previously published** in peer-reviewed conferences or journals. Work presented at prior non-archival workshops is allowed.
 - At least **one author is expected to attend the workshop in person**, and we encourage all authors to participate.
 - Submissions are not required to include a checklist.
-- We follow NeurIPS policies, including their [guidelines on the use of large language models](https://neurips.cc/Conferences/2025/LLM).
 
 Submissions will be reviewed by a panel of 3 reviewers. The review process will be double-blind, and authors should ensure that their submissions do not reveal their identities.
+
+To better understand the criteria reviewers will use when evaluating your submission, please refer to the [Reviewer Guidelines](/reviewers).
 
 ### Contributed Talks
 
