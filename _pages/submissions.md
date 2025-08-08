@@ -54,7 +54,7 @@ To better understand the criteria reviewers will use when evaluating your submis
 
 Following the [NeurIPS 2025 workshop policies](https://neurips.cc/Conferences/2025/CallForWorkshopsGuidance), submissions must be **original work in progress not previously published** in peer-reviewed conferences or journals. Submissions found to have been previously published will be **desk-rejected**. Note that work presented at prior non-archival workshops is permitted.
 
-**Dual submissions are allowed**, provided the other venue is either (i) non-archival (e.g., another workshop), or (ii) archival with an acceptance/publication date *after* the COML notification date (September 22, 2025). If you are submitting to another venue, please ensure that your COML submission complies with that venue’s dual submission policy.
+**Dual submissions are allowed**, provided the other venue is either (i) non-archival (e.g., another workshop), or (ii) archival with a publication date *after* the COML notification date (September 22, 2025). If you are submitting to another venue, please ensure that your COML submission complies with that venue’s dual submission policy.
 
 ### Contributed Talks
 

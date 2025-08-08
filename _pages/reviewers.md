@@ -35,7 +35,7 @@ COML reviewers are also expected to adhere to the [NeurIPS 2025 Code of Conduct]
 ### Desk-Rejections and Conflicts of Interest
 
 Should you identify any grounds for desk-rejection, please **contact your Area Chair directly via OpenReview**. These grounds include:
-* Constituting previously published work.
+* Constituting previously published work, or otherwise violating our [Dual Submission](#dual-submissions-and-previously-published-work) policy.
 * Exceeding the four-page limit or other serious violations of the formatting guidelines.
 * Violating the double-blind policy.
 * Falling significantly outside the workshop's scope.
