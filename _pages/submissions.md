@@ -42,14 +42,19 @@ Submissions on both constrained minimization and constrained game formulations a
 - Submissions will be managed through the [OpenReview portal](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML).
 
 Please note the following **requirements**:
-
-- Submissions must be **original work in progress not previously published** in peer-reviewed conferences or journals. Work presented at prior non-archival workshops is allowed.
+- Submissions must be **original work in progress not previously published** in peer-reviewed conferences or journals (see [Dual Submissions and Previously Published Work](#dual-submissions-and-previously-published-work) below for details).
 - At least **one author is expected to attend the workshop in person**, and we encourage all authors to participate.
 - Submissions are not required to include a checklist.
 
 Submissions will be reviewed by a panel of 3 reviewers. The review process will be double-blind, and authors should ensure that their submissions do not reveal their identities.
 
 To better understand the criteria reviewers will use when evaluating your submission, please refer to the [Reviewer Guidelines](/reviewers).
+
+### Dual Submissions and Previously Published Work
+
+Following the [NeurIPS 2025 workshop policies](https://neurips.cc/Conferences/2025/CallForWorkshopsGuidance), submissions must be **original work in progress not previously published** in peer-reviewed conferences or journals. Submissions found to have been previously published will be **desk-rejected**. Note that work presented at prior non-archival workshops is permitted.
+
+**Dual submissions are allowed**, provided the other venue is either (i) non-archival (e.g., another workshop), or (ii) archival with an acceptance/publication date *after* the COML notification date (September 22, 2025). If you are submitting to another venue, please ensure that your COML submission complies with that venue’s dual submission policy.
 
 ### Contributed Talks
 
