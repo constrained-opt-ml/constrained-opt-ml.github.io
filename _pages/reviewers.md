@@ -53,19 +53,20 @@ Note that there is no checklist requirement for COML 2025 submissions.
 
 Reviewers should assess submissions based on the following aspects:
 
-* **Relevance** to the workshop.
-* **Impact Potential**: Does the submission present an interesting idea that shows promise for future impact?
-* **Soundness**:
-  * Is the idea feasible and well-motivated?
-  * Is the submission adequately grounded in prior work?
-  * Is the submission scientifically correct?
-* **Clarity and Coherence**: Is the submission well-written and easy to follow?
+- **Relevance** to the workshop.
+- **Soundness**:
+  - Is the idea feasible and well-motivated?
+  - Is the submission adequately grounded in prior work?
+  - Is the submission scientifically correct?
+- **Clarity and Coherence**: Is the submission well-written and easy to follow?
+- **Impact Potential**: Does the submission present an interesting idea that shows promise for future impact?
+  **Note:** *Impact Potential should primarily be considered when recommending submissions for contributed talks, rather than as a key factor for overall acceptance (see calibration note below).*
 
-While providing feedback to improve the idea is encouraged, it is not a requirement.
+While providing feedback to help improve the submission and its underlying ideas is encouraged, it is not required.
 
-**Note**: COML is a workshop that emphasizes **early-stage work**. Therefore, submissions presenting preliminary ideas or incomplete results are expected; this should not be grounds for rejection. Additionally, papers that build incrementally on prior work are welcome, provided they are well-written and sound.
+**Note on Review Calibration**: COML emphasizes **early-stage work**. Submissions may present preliminary ideas or incomplete results—this alone should not be grounds for rejection. Any relevant and well-supported submission (i.e., scientifically sound), even if incremental, should be accepted. Exceptional submissions that show significant promise for future impact may be recommended for a contributed talk.
 
-**Appendices**: While appendices are permitted, reviewers are not obligated to read them. The main text should contain sufficient information for a comprehensive evaluation.
+**Appendices**: Reviewers are not obligated to read appendices. The main text should contain all necessary information for a thorough evaluation.
 
 ### Review Structure
 
