@@ -13,7 +13,7 @@ We invite submissions of **extended abstracts (2–4 pages, excluding references
 Final versions will be posted on the [Papers tab](/papers) but **will not be part of formal proceedings**.
 Accepted abstracts will be presented at the workshop during two poster sessions, with selected contributions invited to give a **short talk** (see [Contributed Talks](#contributed-talks) for details).
 
-**Scope**: We welcome submissions relevant to constrained optimization and its applications to enforcing properties on machine learning models, that either develop or leverage *tailored* constrained optimization techniques. Note that this generally excludes work that enforces properties via penalties or regularization—i.e., by augmenting the loss with a linear penalty term and then unconstrainedly minimizing the sum (see this [Position Paper](https://arxiv.org/abs/2505.20628) for why this approach is generally not principled for constrained optimization).
+**Scope**: We welcome submissions on constrained optimization and its application to enforcing properties on machine learning models, with a focus on work that develops or leverages *tailored* constrained optimization techniques. In general, this excludes approaches that impose properties via penalties or regularization—that is, by augmenting the loss with a linear penalty term and minimizing the resulting unconstrained objective. (See this [Position Paper](https://arxiv.org/abs/2505.20628) for a discussion of why such methods are typically not principled in the context of constrained optimization.)
 
 We particularly encourage contributions in the following areas:
 
