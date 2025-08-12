@@ -61,10 +61,10 @@ Following the [NeurIPS 2025 workshop policies](https://neurips.cc/Conferences/20
 Four extended abstracts will be selected for a **short contributed talk** at the workshop. Selection will be based on the quality and relevance of the abstract to the workshop themes.
 To promote a diverse set of contributions, we aim to select one talk from each of the following categories:
 
-- Best **fundamental** (theoretical or algorithmic) contribution.
+- Best **fundamental** (theoretical or algorithmic) contribution,
 - Best **application**,
 - Best **overall** contribution,
-- Best **negative results** contribution,
+- Best **negative results** contribution.
 
 However, the final selection may deviate from these categories depending on the quality of submissions.
 

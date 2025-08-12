@@ -71,7 +71,7 @@ Each review, to be submitted directly in [OpenReview](https://openreview.net/gro
 * A **2-3 sentence summary** of the paper—this should be descriptive, not critical.
 * A multiple-choice question assessing the submission's alignment with the workshop's themes (yes, unsure, no). Refer to the [Call for Papers](https://constrained-opt-ml.github.io/submissions) for relevant topics. If unsure, please flag the submission for discussion with the Area Chair.
 * A **1-2 paragraph critical review** covering the paper's overall *soundness*, *clarity* and *impact potential* (see [above](#review-criteria) for details).
-* A **recommendation** (accept, unsure, or reject) with a clear justification.
+* A **recommendation** to accept or reject the submission.
 * A **checkbox** to recommend outstanding papers for a **contributed talk** at the workshop. If selected, please specify the relevant contributed talk track (details available [here](https://constrained-opt-ml.github.io/submissions/#contributed-talks)) and provide your justification for the recommendation.
 
 The review process is **double-blind**; therefore, ensure your reviews do not disclose your identity.
