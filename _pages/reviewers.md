@@ -75,7 +75,7 @@ Each review, to be submitted directly in [OpenReview](https://openreview.net/gro
 
 - A **2–3 sentence summary** of the paper — this should be descriptive, not critical.
 - A multiple-choice question assessing the submission's adherence to the workshop policies (e.g., respecting the 4-page limit — see [Desk Rejections](#desk-rejections-and-conflicts-of-interest)).
-  - **You may submit a placeholder review if you identify any serious violations**, since the paper will be desk rejected if that's the case.
+  - **You may submit a placeholder review if you identify any serious violations**, since the paper will be desk rejected if that is the case.
   - However, if it is unclear whether a violation has occurred (e.g., unclear alignment with the workshop's themes), please complete the review assuming the submission is valid.
   - If grounds for desk rejection are identified, a brief explanation should be provided.
 - A **1–2 paragraph critical review** covering the paper's overall *soundness*, *clarity*, and *impact potential* (see [above](#review-criteria) for details).
