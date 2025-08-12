@@ -15,7 +15,7 @@ If you are interested in reviewing for the workshop, please fill out the [review
 
 Thank you for serving as a reviewer for COML 2025!
 
-You will be assigned **3 papers** to review.
+You will be assigned **3 extended abstracts** (4 pages each) to review.
 
 ### Important Dates
 * **Paper assignment**: August 26, 2025
