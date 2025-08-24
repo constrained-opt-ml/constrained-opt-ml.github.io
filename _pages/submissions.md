@@ -9,7 +9,7 @@ nav_order: 3
 
 ## **Call for Extended Abstracts**
 
-We invite submissions of **extended abstracts (2–4 pages, excluding references)** that advance the field of constrained learning (deadline: ~~Aug 21, 2025~~ **Aug 24, 2025 (AOE)**.
+We invite submissions of **extended abstracts (2–4 pages, excluding references)** that advance the field of constrained learning (deadline: ~~Aug 21, 2025~~ **Aug 28, 2025 (AOE)**.
 Final versions will be posted on the [Papers tab](/papers) but **will not be part of formal proceedings**.
 Accepted abstracts will be presented at the workshop during two poster sessions, with selected contributions invited to give a **short talk** (see [Contributed Talks](#contributed-talks) for details).
 
@@ -75,7 +75,7 @@ Oral presenters will be notified by **Sep 29, 2025**.
 
 As per [OpenReview guidelines](https://docs.openreview.net/getting-started/frequently-asked-questions/why-does-it-take-two-weeks-to-moderate-my-profile), please ensure that you create an account at least two weeks before the submission deadline to avoid any delays.
 
-* [**Submission deadline**](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML): ~~Aug 21, 2025~~ Aug 24, 2025 (AOE)
+* [**Submission deadline**](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/COML): ~~Aug 21, 2025~~ Aug 28, 2025 (AOE)
 * **Author notification**: Sep 22, 2025
 * **Oral selection notification**: Sep 29, 2025
 * **Camera-ready version**: Oct 31, 2025 (AOE)

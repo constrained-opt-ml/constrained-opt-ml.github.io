@@ -18,7 +18,7 @@ Thank you for serving as a reviewer for COML 2025!
 You will be assigned **3 extended abstracts** (4 pages each) to review.
 
 ### Important Dates
-* **Paper assignment**: August 26, 2025
+* **Paper assignment**: ~~Aug 26, 2025~~ August 29, 2025
 * **Reviews** due: September 11, 2025 (AoE)
 
 
