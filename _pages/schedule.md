@@ -7,9 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-## **December 6th or 7th, 2025**
+## **December 7th, 2025**
 
-The workshop will be held on **December 6th or 7th, 2025**, at the San Diego Convention Center, as part of the NeurIPS 2025 conference.
+The workshop will take place on **December 7, 2025**, in *Upper Level Ballroom 6D–6E* at the San Diego Convention Center, as part of the NeurIPS 2025 conference.
 
 <!-- Submit questions for our panelists <a href="https://forms.gle/TODO">here</a>. -->
 
