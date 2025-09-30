@@ -1,7 +1,7 @@
 ---
 layout: organizers
 permalink: /organizers/
-title: Organizers
+title: Organizers and Program Committee
 description:
 nav: true
 nav_order: 6
