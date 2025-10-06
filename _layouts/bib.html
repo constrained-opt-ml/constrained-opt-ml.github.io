@@ -1,0 +1,198 @@
+---
+---
+
+<div class="row">
+  <div class="col-sm-2 abbr">
+  {% if entry.abbr %}
+    {% if site.data.venues[entry.abbr] %}
+    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+    {% else %}
+    <abbr class="badge">{{entry.abbr}}</abbr>
+    <!-- <div class="award">{{entry.award}}</div> -->
+    {% endif %}
+  {% endif %}
+
+  {% if entry.award %}
+    {% if site.data.venues[entry.award] %}
+    <abbr class="badge"><a href="{{site.data.venues[entry.award].url}}" target="_blank">{{entry.award}}</a></abbr2>
+    {% else %}
+    <!-- <abbr class="badge">{{entry.award}}</abbr> -->
+    <div class="award">{{entry.award}}</div>
+    {% endif %}
+  {% endif %}
+  </div>
+
+  <div id="{{entry.key}}" class="col-md-9">
+    {% if entry.type == "thesis" %}
+      {{reference}}
+    {% else %}
+      <div class="title">{{entry.title}}</div>
+      <div class="author">
+        {% for author in entry.author_array %}
+          {% assign author_is_self = false %}
+          {% if site.scholar.last_name contains author.last%}
+            {% if site.scholar.first_name contains author.first%}
+              {% assign author_is_self = true %}
+            {% endif %}
+          {% endif %}
+          {% assign coauthor_url = nil %}
+          {% if site.data.coauthors[author.last] %}
+            {% for coauthor in site.data.coauthors[author.last] %}
+              {% if coauthor.firstname contains author.first %}
+                {% assign coauthor_url = coauthor.url %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+
+          {% if forloop.length == 1 %}
+            {% if author_is_self %}
+              <em>{{author.first}} {{author.last}}</em>
+            {% else %}
+              {{author.last}}, {{author.first}}
+            {% endif %}
+          {% else %}
+            {% unless forloop.last %}
+              {% if author_is_self %}
+                <em>{{author.first}} {{author.last}}</em>,
+              {% else %}
+                {% if coauthor_url %}
+                  <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>,
+                {% else %}
+                  {{author.first}} {{author.last}},
+                {% endif %}
+              {% endif %}
+            {% else %}
+              {% if author_is_self %}
+                and <em>{{author.first}} {{author.last}}</em>
+              {% else %}
+                {% if coauthor_url %}
+                  and <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
+                {% else %}
+                  and {{author.first}} {{author.last}}
+                {% endif %}
+              {% endif %}
+            {% endunless %}
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      <div class="periodical">
+      {% if entry.avenue_overwrite %}
+        <em>{{entry.avenue_overwrite}}</em>,
+      {% elsif entry.type == "article" %}
+        <em>{{entry.journal}}</em>,
+      {% elsif entry.type == "inproceedings" %}
+        <em>{{entry.booktitle}}</em>,
+      {% endif %}
+      {% if entry.year %}
+        {{entry.year}}
+      {% endif %}
+      </div>
+      {% if entry.comment %}
+        <div>{{entry.comment}}</div>
+      {% endif %}
+      {% if entry.note %}
+        <div class="awardnote">{{entry.note}}</div>
+      {% endif %}
+    {% endif %}
+
+
+
+    <div class="links">
+    <a class="bibtex btn btn-sm z-depth-0" role="button">bibtex</a>
+    {% if entry.abstract %}
+      <a class="abstract btn btn-sm z-depth-0" role="button">abstract</a>
+    {% endif %}
+    {% if entry.arxiv %}
+      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    {% endif %}
+    {% if entry.html %}
+      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    {% endif %}
+    {% if entry.pdf %}
+      {% if entry.pdf contains '://' %}
+      <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      {% else %}
+      <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.supp %}
+      {% if entry.supp contains '://' %}
+      <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Supp</a>
+      {% else %}
+      <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Supp</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.presentation %}
+      <a href="{{ entry.presentation }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Talk</a>
+    {% endif %}
+    {% if entry.pitch %}
+      <a href="{{ entry.pitch }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Short Talk</a>
+    {% endif %}
+    {% if entry.blog %}
+      <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>
+    {% endif %}
+    {% if entry.code %}
+      <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    {% endif %}
+    {% if entry.poster %}
+      {% if entry.poster contains '://' %}
+      <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
+      {% else %}
+      <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.slides %}
+      {% if entry.slides contains '://' %}
+      <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
+      {% else %}
+      <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Slides</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.website %}
+      <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
+    {% endif %}
+    {% if entry.video %}
+      <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Video</a>
+    {% endif %}
+    {% if entry.talk %}
+      {% if entry.talkslides contains '://' %}
+      <a href="{{ entry.talkslides }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Talk @ {{entry.talk}}</a>
+      {% else %}
+      <a href="{{ entry.talkslides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Talk @ {{entry.talk}}</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.press %}
+      <a href="{{ entry.press }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
+    {% endif %}
+    </div>
+
+    <!-- Hidden abstract block -->
+    {% if entry.abstract %}
+    <div class="abstract hidden">
+      <p>{{ entry.abstract }}</p>
+    </div>
+    {% endif %}
+
+    <!-- Hidden bibtex block -->
+    <div class="bibtex hidden">
+      <p>&#64;{{ entry.type }}&#123;{{ entry.key }},<br>
+         &nbsp; title=&#123;{{ entry.title }}&#125;,<br>
+         {% if entry.author_bib %}
+            &nbsp; author=&#123;{{ entry.author_bib }}&#125;,<br>
+         {% else %}
+            &nbsp; author=&#123;{{ entry.author }}&#125;,<br>
+         {% endif %}
+         {% if entry.type == "article" %}
+            &nbsp; journal=&#123;{{ entry.journal }}&#125;,<br>
+         {% elsif entry.type == "inproceedings" %}
+            &nbsp; booktitle=&#123;{{ entry.booktitle }}&#125;,<br>
+         {% endif %}
+         &nbsp; year=&#123;{{ entry.year }}&#125;,<br>
+         &#125;
+      </p>
+    </div>
+
+  </div>
+</div>
