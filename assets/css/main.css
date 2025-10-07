@@ -855,3 +855,7 @@ table.table thead th {
 .faq-list a.collapsed i {
     transform: rotate(180deg);
 }
+
+li details {
+  margin-left: 2em; /* Adjust as needed */
+}

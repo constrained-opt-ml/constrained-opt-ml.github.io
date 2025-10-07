@@ -10,7 +10,24 @@ nav_order: 5
 ## **Accepted Contributions**
 
 ### Contributed Talks
-To be announced.
+
+We are glad to present the following accepted contributed talks. See the full schedule on the [Schedule page](/schedule/).
+
+1. **[11:30 - 11:45]** [Active-Set Identification by Stochastic and Noisy Optimization Algorithms for Constrained Learning](https://openreview.net/forum?id=vzfNQwwAqQ)
+  <br> *Lara Zebiane, Frank Edward Curtis, Daniel Robinson*
+
+2. **[11:45 - 12:00]** [Alignment of Large Language Models with Constrained Learning](https://openreview.net/forum?id=4ZPPnIRjJQ)
+  <br> *Botong Zhang, Shuo Li, Ignacio Hounie, Osbert Bastani, Dongsheng Ding, Alejandro Ribeiro*
+
+3. **[14:10 - 14:25]** [Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity](https://openreview.net/forum?id=m27KVpfbKi)
+  <br> *Ilyas Fatkhullin, Niao He, Guanghui Lan, Florian Wolf*
+
+4. **[14:25 - 14:40]** [HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees](https://openreview.net/forum?id=HWZ6W7AiJL)
+  <br> *Youngjae Min, Navid Azizan*
+
+5. **[14:40 - 14:55]** [Infinity Embeddings: Representation learning with ultrametric structure for faster search via Constrained Learning](https://openreview.net/forum?id=HNAqDj7zTq)
+  <br> *Antonio Pariente Granero, Ignacio Hounie, Alejandro Ribeiro*
+
 
 ### Poster Session #1
 
