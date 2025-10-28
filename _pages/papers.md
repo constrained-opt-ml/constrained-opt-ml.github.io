@@ -64,7 +64,7 @@ We are glad to present the following accepted contributed talks. See the full sc
 - [Infinity Embeddings: Representation learning with ultrametric structure for faster search via Constrained Learning.](https://openreview.net/forum?id=HNAqDj7zTq)
 - [FineAMP: Optimization-Based Automatic Mixed Precision Quantization for Efficient Diffusion Model Inference](https://openreview.net/forum?id=sVObVLUs0C)
 - [Constrained Active Regression via Ellipsoid Regularized Leverage Scores](https://openreview.net/forum?id=eXKnR11wkc)
-- [Generalized Constrained Flow Matching for Constraint-Aware Generative Modeling](https://openreview.net/forum?id=ESjoUyIy0b)
+- [Chance-constrained Flow Matching for High-Fidelity Constraint-aware Generation](https://openreview.net/forum?id=ESjoUyIy0b)
 - [The Lagrangian Method for Solving Locally Constrained Markov Games](https://openreview.net/forum?id=hBvCERnRIQ)
 - [Combining Online CUR Decomposition and Matrix Sketching for Data Streams in Open Feature Spaces](https://openreview.net/forum?id=xcnMiei20G)
 - [Causal-Informed Hybrid Online Adaptive Optimization for Ad Load Personalization in Large-Scale Social Networks](https://openreview.net/forum?id=uwj93B9g5u)
