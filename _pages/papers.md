@@ -29,7 +29,7 @@ We are glad to present the following accepted contributed talks. See the full sc
   <br> *Antonio Pariente Granero, Ignacio Hounie, Alejandro Ribeiro*
 
 
-### Poster Session #1
+### Poster Session #1 (9:20 - 10:50)
 
 - [Learning (Approximately) Equivariant Networks via Constrained Optimization](https://openreview.net/forum?id=ClPTxR8Z1G)
 - [A Bilevel Optimization Approach for Computing Synthetic Data to Mitigate Unfairness in Collaborative Machine Learning](https://openreview.net/forum?id=YTUfKohLUP)
@@ -53,7 +53,7 @@ We are glad to present the following accepted contributed talks. See the full sc
 - [Statistical Inference for Responsiveness Verification](https://openreview.net/forum?id=ZU5QPmrz3e)
 - [A Constrained Optimization Perspective of Unrolled Transformers](https://openreview.net/forum?id=Hy52oYniV1)
 
-### Poster Session #2
+### Poster Session #2 (16:40 - 18:00)
 
 - [FPS: Feedforward-based Parameter Selection For Efficient Fine-Tuning](https://openreview.net/forum?id=75Sl9Dhw3f)
 - [Cooper: A Library for Constrained Optimization in Deep Learning](https://openreview.net/forum?id=OXOZYP3xJX)
