@@ -13,8 +13,6 @@ The workshop will take place on **December 7, 2025**, in *Upper Level Ballroom 6
 
 The full schedule is also available on the [NeurIPS website](https://neurips.cc/virtual/2025/workshop/109533).
 
-<!-- Submit questions for our panelists <a href="https://forms.gle/TODO">here</a>. -->
-
 <br>
 
 ### Morning Session
@@ -43,9 +41,8 @@ The full schedule is also available on the [NeurIPS website](https://neurips.cc/
 | 14:40 - 14:55  | Antonio Pariente Granero            | **Contributed talk**: [Infinity Embeddings: Representation learning with ultrametric structure for faster search via Constrained Learning](https://openreview.net/forum?id=HNAqDj7zTq) |
 | 14:55 - 15:20  | --                                   | **Coffee Break**          |
 | 15:20 - 16:00  | Emily Ruth Diana (CMU)               | **Keynote**: TBA          |
-| 16:00 - 16:30  | The Speakers                         | **Panel Discussion**      |
-| 16:30 - 16:40  | Organizers                           | **Closing Remarks**       |
-| 16:40 - 18:00  | --                                   | **Poster Session 2** (Posters listed [here](/papers/#poster-session-2)) |
+| 16:00 - 16:10  | Organizers                           | **Closing Remarks**       |
+| 16:10 - 17:40  | --                                   | **Poster Session 2** (Posters listed [here](/papers/#poster-session-2)) |
 {: .table}
 {: .table-striped}
 
