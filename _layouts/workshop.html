@@ -318,10 +318,30 @@ layout: default
                     <div class="card-body" style="padding-top: 0;">
                         <hr>
                         <h5>Talk Title</h5>
-                        <p><i>TBA</i></p>
+                        <p><i>Minimax Fairness in Strategic Classification</i></p>
                         <h5>Abstract</h5>
                         <p>
-                          TBA
+                            In strategic classification, agents manipulate their features, at a cost, to receive a
+                            positive classification outcome from the learner's classifier. The goal of the learner in
+                            such settings is to learn a classifier that is robust to strategic manipulations. While the
+                            majority of works in this domain consider accuracy as the primary objective of the learner,
+                            in this work, we consider learning objectives that have group fairness guarantees in
+                            addition to accuracy guarantees. We work with the minimax group fairness notion that asks
+                            for minimizing the maximal group error rate across population groups. We formalize a
+                            fairness-aware Stackelberg game between a population of agents consisting of several groups,
+                            with each group having its own cost function, and a learner in the agnostic PAC setting in
+                            which the learner is working with a hypothesis class H. When the cost functions of the
+                            agents are separable, we show the existence of an efficient algorithm that finds an
+                            approximately optimal deterministic classifier for the learner when the number of groups is
+                            small. This algorithm remains efficient, both statistically and computationally, even when H
+                            is the set of all classifiers. We then consider cost functions that are not necessarily
+                            separable and show the existence of oracle-efficient algorithms that find approximately
+                            optimal randomized classifiers for the learner when H has finite strategic VC dimension.
+                            These algorithms work under the assumption that the learner is fully transparent: the
+                            learner draws a classifier from its distribution (randomized classifier) before the agents
+                            respond by manipulating their feature vectors. We highlight the effectiveness of such
+                            transparency in developing oracle-efficient algorithms. We conclude with verifying the
+                            efficacy of our algorithms on real data by conducting an experimental analysis.
                         </p>
                     </div>
                 </div>

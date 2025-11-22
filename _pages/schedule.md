@@ -23,8 +23,8 @@ The full schedule is also available on the [NeurIPS website](https://neurips.cc/
 |  8:40 - 9:20   | Frank E. Curtis (Lehigh)          | **Keynote**: Stochastic Algorithms for Nonlinearly Constrained Optimization                    |
 |  9:20 - 10:50  | --                                | **Coffee Break & Poster Session 1** (Posters listed [here](/papers/#poster-session-1)) |
 | 10:50 - 11:30  | Luiz Chamon (École Polytechnique) | **Keynote**: The 5 W's and H of constrained learning                    |
-| 11:30 - 11:45  | Lara Zebiane                      | **Contributed talk**: [Active-Set Identification by Stochastic and Noisy Optimization Algorithms for Constrained Learning](https://openreview.net/forum?id=vzfNQwwAqQ)           |
-| 11:45 - 12:00  | Botong Zhang                      | **Contributed talk**: [Alignment of Large Language Models with Constrained Learning](https://openreview.net/forum?id=4ZPPnIRjJQ)           |
+| 11:30 - 11:45  | Lara Zebiane                      | **Contributed talk**: Active-Set Identification by Stochastic and Noisy Optimization Algorithms for Constrained Learning           |
+| 11:45 - 12:00  | Botong Zhang                      | **Contributed talk**: Alignment of Large Language Models with Constrained Learning           |
 | 12:00 - 13:30  |                                   | **Lunch Break**                     |
 {: .table}
 {: .table-striped}
@@ -36,11 +36,11 @@ The full schedule is also available on the [NeurIPS website](https://neurips.cc/
 | **Time (PST)** | **Speaker**                          | **Event**                 |
 |:--------------:|--------------------------------------|---------------------------|
 | 13:30 - 14:10  | Ferdinando Fioretto (U. of Virginia) | **Keynote**: Constraint-Aware Generative Models          |
-| 14:10 - 14:25  | Ilyas Fatkhullin                     | **Contributed talk**: [Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity](https://openreview.net/forum?id=m27KVpfbKi) |
-| 14:25 - 14:40  | Youngjae Min                         | **Contributed talk**: [HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees](https://openreview.net/forum?id=HWZ6W7AiJL) |
-| 14:40 - 14:55  | Antonio Pariente Granero            | **Contributed talk**: [Infinity Embeddings: Representation learning with ultrametric structure for faster search via Constrained Learning](https://openreview.net/forum?id=HNAqDj7zTq) |
+| 14:10 - 14:25  | Ilyas Fatkhullin                     | **Contributed talk**: Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity |
+| 14:25 - 14:40  | Youngjae Min                         | **Contributed talk**: HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees |
+| 14:40 - 14:55  | Antonio Pariente Granero            | **Contributed talk**: Infinity Embeddings: Representation learning with ultrametric structure for faster search via Constrained Learning |
 | 14:55 - 15:20  | --                                   | **Coffee Break**          |
-| 15:20 - 16:00  | Emily Ruth Diana (CMU)               | **Keynote**: TBA          |
+| 15:20 - 16:00  | Emily Ruth Diana (CMU)               | **Keynote**: Minimax Fairness in Strategic Classification          |
 | 16:00 - 16:10  | Organizers                           | **Closing Remarks**       |
 | 16:10 - 17:40  | --                                   | **Poster Session 2** (Posters listed [here](/papers/#poster-session-2)) |
 {: .table}
