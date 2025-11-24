@@ -13,14 +13,14 @@ nav_order: 5
 
 We are glad to present the following accepted contributed talks. See the full schedule on the [Schedule page](/schedule/).
 
-1. **[11:30 - 11:45]** Active-Set Identification by Stochastic and Noisy Optimization Algorithms for Constrained Learning
-  <br> *Lara Zebiane, Frank Edward Curtis, Daniel Robinson*
+1. **[11:30 - 11:45]** Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity
+  <br> *Ilyas Fatkhullin, Niao He, Guanghui Lan, Florian Wolf*
 
 1. **[11:45 - 12:00]** Alignment of Large Language Models with Constrained Learning
   <br> *Botong Zhang, Shuo Li, Ignacio Hounie, Osbert Bastani, Dongsheng Ding, Alejandro Ribeiro*
 
-1. **[14:10 - 14:25]** Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity
-  <br> *Ilyas Fatkhullin, Niao He, Guanghui Lan, Florian Wolf*
+1. **[14:10 - 14:25]** Active-Set Identification by Stochastic and Noisy Optimization Algorithms for Constrained Learning
+  <br> *Lara Zebiane, Frank Edward Curtis, Daniel Robinson*
 
 1. **[14:25 - 14:40]** HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees
   <br> *Youngjae Min, Navid Azizan*

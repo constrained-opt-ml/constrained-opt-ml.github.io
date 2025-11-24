@@ -23,7 +23,7 @@ The full schedule is also available on the [NeurIPS website](https://neurips.cc/
 |  8:40 - 9:20   | Frank E. Curtis (Lehigh)          | **Keynote**: Stochastic Algorithms for Nonlinearly Constrained Optimization                    |
 |  9:20 - 10:50  | --                                | **Coffee Break & Poster Session 1** (Posters listed [here](/papers/#poster-session-1)) |
 | 10:50 - 11:30  | Luiz Chamon (École Polytechnique) | **Keynote**: The 5 W's and H of constrained learning                    |
-| 11:30 - 11:45  | Lara Zebiane                      | **Contributed talk**: Active-Set Identification by Stochastic and Noisy Optimization Algorithms for Constrained Learning           |
+| 11:30 - 11:45  | Ilyas Fatkhullin                     | **Contributed talk**: Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity |
 | 11:45 - 12:00  | Botong Zhang                      | **Contributed talk**: Alignment of Large Language Models with Constrained Learning           |
 | 12:00 - 13:30  |                                   | **Lunch Break**                     |
 {: .table}
@@ -36,7 +36,7 @@ The full schedule is also available on the [NeurIPS website](https://neurips.cc/
 | **Time (PST)** | **Speaker**                          | **Event**                 |
 |:--------------:|--------------------------------------|---------------------------|
 | 13:30 - 14:10  | Ferdinando Fioretto (U. of Virginia) | **Keynote**: Constraint-Aware Generative Models          |
-| 14:10 - 14:25  | Ilyas Fatkhullin                     | **Contributed talk**: Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity |
+| 14:10 - 14:25  | Lara Zebiane                      | **Contributed talk**: Active-Set Identification by Stochastic and Noisy Optimization Algorithms for Constrained Learning           |
 | 14:25 - 14:40  | Youngjae Min                         | **Contributed talk**: HardNet: Hard-Constrained Neural Networks with Universal Approximation Guarantees |
 | 14:40 - 14:55  | Antonio Pariente Granero            | **Contributed talk**: Infinity Embeddings: Representation learning with ultrametric structure for faster search via Constrained Learning |
 | 14:55 - 15:20  | --                                   | **Coffee Break**          |
